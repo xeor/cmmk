@@ -1,0 +1,3 @@
+[submodule "libcmmk"]
+	path = libcmmk
+	url = https://github.com/chmod222/libcmmk.git
