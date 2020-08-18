@@ -1,5 +1,8 @@
 # cmmk (simple binary around libcmmk)
 
+* Simple binary to set colors to keys on coolermaster keyboards
+* See https://github.com/chmod222/libcmmk for the library that does the actual work
+
 ## Install (arch)
 
 * pamac build libcmmk-git # Or any other aur package manager
